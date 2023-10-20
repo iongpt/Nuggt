@@ -42,7 +42,8 @@ streamlit run nuggt.py
 
 This repository serves as an experimental project and should be considered with the following limitations in mind:
 
-* As of June 9th, 2023, Nuggt is not a fully developed project. We strongly recommend thorough testing before deploying the solution to ensure the security and functionality of your application. 
+* As of October 19th, 2023, Nuggt is not a fully developed project. We strongly recommend thorough testing before deploying the solution to ensure the security and functionality of your application.
+
 
 ## Disclaimer
 
